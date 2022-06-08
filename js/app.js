@@ -4,21 +4,21 @@ Create an array of your team members. It should be an array of objects having th
 */
 
 const teamMembers = [
-    { name: "Abuhasan Mubaraq", image: "img/mubaraq.jpeg", bestFood: "French Fries & Chicken", complexion: "Fair", thingsLearnt: ["HTML", "CSS", "Bootstrap", "JavaScript"], bestMovie: "IronMan 3", age: "28" },
+    { name: "Abuhasan Mubaraq", image: "img/mubaraq.jpeg", bestFood: "French Fries & Chicken", complexion: "Fair", thingsLearnt: ["HTML", "CSS", "Bootstrap","Git and Github" ,"JavaScript"], bestMovie: "IronMan 3", age: "28" },
 
-    { name: "Divinegift Onumajuru", image: "img/gift.jpeg", bestFood: "Rice & Vegetable Suace", complexion: "Dark", thingsLearnt: ["HTML", "CSS", "Bootstrap", "JavaScript"], bestMovie: "Money Heist", age: "25" },
+    { name: "Divinegift Onumajuru", image: "img/gift.jpeg", bestFood: "Rice & Vegetable Suace", complexion: "Dark", thingsLearnt: ["HTML", "CSS", "Bootstrap", "Git and Github","JavaScript"], bestMovie: "Money Heist", age: "25" },
 
-    { name: "Sherif Muhammed", image: "img/sherif.jpeg", bestFood: "Yam & Egg", complexion: "Dark", thingsLearnt: ["HTML", "CSS", "Bootstrap", "JavaScript"], bestMovie: "Power", age: "19" },
+    { name: "Sherif Muhammed", image: "img/sherif.jpeg", bestFood: "Yam & Egg", complexion: "Dark", thingsLearnt: ["HTML", "CSS", "Bootstrap", "Git and Github","JavaScript"], bestMovie: "Power", age: "19" },
 
-    { name: "Clinton Samuel", image: "img/clinton.jpeg", bestFood: "Garri & Afang Soup", complexion: "Fair", thingsLearnt: ["HTML", "CSS", "Bootstrap", "JavaScript"], bestMovie: "The Avengers", age: "21" },
+    { name: "Clinton Samuel", image: "img/clinton.jpeg", bestFood: "Garri & Afang Soup", complexion: "Fair", thingsLearnt: ["HTML", "CSS", "Bootstrap", "Git and Github","JavaScript"], bestMovie: "The Avengers", age: "21" },
 
-    { name: "Jimoh Segun", image: "img/jimoh.jpeg", bestFood: "Rice", complexion: "Dark", thingsLearnt: ["HTML", "CSS", "Bootstrap", "JavaScript"], bestMovie: "Baahubali", age: "25" },
+    { name: "Jimoh Segun", image: "img/jimoh.jpeg", bestFood: "Rice", complexion: "Dark", thingsLearnt: ["HTML", "CSS", "Bootstrap","Git and Github", "JavaScript"], bestMovie: "Baahubali", age: "25" },
 
-    { name: "Khadijah Muhammad", image: "img/dijah.jpeg", bestFood: "Rice & Chicken", complexion: "Dark", thingsLearnt: ["HTML", "CSS", "Bootstrap", "JavaScript"], bestMovie: "The Saint", age: "21" },
+    { name: "Khadijah Muhammad", image: "img/dijah.jpeg", bestFood: "Rice & Chicken", complexion: "Dark", thingsLearnt: ["HTML", "CSS", "Bootstrap", "Git and Github", "JavaScript"], bestMovie: "The Saint", age: "21" },
 
-    { name: "Arinola Goodness", image: "img/goodness.jpeg", bestFood: "Rice & Chicken", complexion: "Dark", thingsLearnt: ["HTML", "CSS", "Bootstrap", "JavaScript"], bestMovie: "Morbius", age: "24" },
+    { name: "Arinola Goodness", image: "img/goodness.jpeg", bestFood: "Rice & Chicken", complexion: "Dark", thingsLearnt: ["HTML", "CSS", "Bootstrap", "Git and Github","JavaScript"], bestMovie: "Morbius", age: "24" },
 
-    { name: "Nduka Samuel", image: "img/samuel.jpeg", bestFood: "Akpu & Oha Soup", complexion: "Dark", thingsLearnt: ["HTML", "CSS", "Bootstrap", "JavaScript"], bestMovie: "The Saint", age: "27" },
+    { name: "Nduka Samuel", image: "img/samuel.jpeg", bestFood: "Akpu & Oha Soup", complexion: "Dark", thingsLearnt: ["HTML", "CSS", "Bootstrap", "Git and Github", "JavaScript"], bestMovie: "The Saint", age: "27" },
 
 
 ];
